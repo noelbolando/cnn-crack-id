@@ -2,13 +2,11 @@
 
 <img width="167" height="163" alt="Screenshot 2025-09-06 at 4 59 31 PM" src="https://github.com/user-attachments/assets/6e5fd4c1-8615-4062-adad-94ffade94db2" />
 
-## Some Background ##
+## Project Background ##
 
-During my days as a research assistant, I was tasked with the responsibility of organizing thousands of microsctrual images and asked to sort the images based on key features: cracks and inclusions. This was a laborarious task that took me weeks to complete. Honestly, I couldn't be bothered to do such menial tasks so I developed an machine learning algorithm to sort through and identify crack features in microstructural images. 
+This project was born from a menial task: labeling SEM images containing unique features such as microcracks and inclusion formation. We couldn't be bothered to label thousands of images so we developed an machine learning algorithm to sort through and identify crack features in microstructural images. 
 
-I somehow convinced my lab PI that this project was a good idea and he trusted me to tackle it. Not only did I work my way out of dealing with menial tasks, but I also developed a machine learning algorithm back in 2019, before it was trendy to do such things. I also got credit for this project, research experience, and a peer-reviewed paper!
-
-This repo is the result of my laziness and the creation of said project. 
+It has been said that this repo is the result of my task avoidance.
 
 ## Project Details ##
 

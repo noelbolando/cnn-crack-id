@@ -4,9 +4,13 @@
 
 ## Project Background ##
 
-This project was born from a menial task: labeling SEM images containing unique features such as microcracks and inclusion formation. We couldn't be bothered to label thousands of images so we developed an machine learning algorithm to sort through and identify crack features in microstructural images. 
+It has been said that this repo is the result of my task avoidance but the truth is that this project was born from a menial task: labeling SEM images containing unique features such as microcracks and inclusion formation. I couldn't be bothered to label thousands of images so I developed an machine learning algorithm to sort through and identify crack features in microstructural images. 
 
-It has been said that this repo is the result of my task avoidance.
+I developed a convolutional neural network (CNN) in Matlab, leveraging deep learning algorithm to identify unique features in training data, tested the learning capabilities, and validated the results of learning through the introduction of new images.
+
+For the visual learners out there, here's the workflow for the image identification: 
+
+<img width="425" height="700" alt="Screenshot 2025-09-06 at 4 58 31 PM" src="https://github.com/user-attachments/assets/45cebbf5-9aea-4f96-bab3-de311e23fa43" />
 
 ## Project Details ##
 
